@@ -7,7 +7,7 @@ export default function AppLogo() {
                 <ShoppingBag className="size-5 text-white dark:text-black" />
             </div>
             <div className="ml-1 grid flex-1 text-left text-sm">
-                <span className="mb-0.5 truncate leading-none font-semibold">Simple UI</span>
+                <span className="mb-0.5 truncate leading-none font-semibold">Abrajeimmo</span>
             </div>
         </>
     );
